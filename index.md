@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hey there, welcome to my page 🙋‍♂️
+  
+I am currently an ML Engineer at Interset (a MicroFocus company) and contribute to ML Ops and build data pipelines to make SaaS products which derive insights from data. I have worked the most with User Behaviour Analytics data in ecommerce and cybersecurity domains.
 
 You can use the [editor on GitHub](https://github.com/singhsatnam/singhsatnam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
